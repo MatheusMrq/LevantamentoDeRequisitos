@@ -9,4 +9,7 @@ Código, data, Nome completo, turma, período, curso, local, uma observação e 
 Exibir os itens imputados numa lista que separe os alunos em linhas, exibindo as informações em colunas
 
 ## Funções
-- Excluir um único registro de dados
+- Excluir um único registro de dados.
+- Ser capaz de ordenar todos os horários que um aluno em especifico tem independente do local, data ou período.
+- Os dados deverão ficar salvos em algum banco de dados consistente.
+- 
